@@ -69,19 +69,6 @@ I care about clean code, well-documented APIs, responsive interfaces, and teams 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🤝 Let's Talk!
 
 If you want to chat about **Java, Spring, front-end, tech careers**, or working on international projects, feel free to reach out! I speak 🇧🇷 Portuguese, 🇺🇸 English, and 🇪🇸 Spanish.
