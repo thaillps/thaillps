@@ -41,7 +41,7 @@ I care about clean code, well-documented APIs, responsive interfaces, and teams 
 
 ---
 
-## 🛠️ Tech Stack
+<!--## 🛠️ Tech Stack
 
 **Backend**
 
@@ -57,19 +57,7 @@ I care about clean code, well-documented APIs, responsive interfaces, and teams 
 
 > ☕ **Main stack:** Java 8+ (Spring ecosystem) · JavaScript/TypeScript (Angular, ReactJS, Vue.js) · Node · MongoDB · MySQL
 
----
-
-## 🚀 Career Journey
-
-| Period | Where | What I did |
-|:--|:--|:--|
-| **2024 — Present** | 🌎 **NCR Voyix** · Software Engineer / Delivery Integration Specialist | Full stack work on an international project: client-server architecture, APIs, databases, security, and technical documentation |
-| **2022 — 2024** | 💙 **IBM** · Software Engineer | Frontend for the AFME-Petrobras project (AngularJS → upgrade to Angular 16+) and backend maintenance in Java 8+, Spring Boot, and Maven |
-| **2021 — 2022** | 🧠 **CEIA & Deep Learning Brasil** · Data Scientist | Data and performance monitoring for an AI that corrects essays, dashboards in Google Data Studio, and Big Data analysis |
-| **2021 — 2022** | 🏥 **Oni Soluções** · Full Stack Developer | Clinic management systems and a healthcare platform, migrating legacy code (PHP/Zend/Dojo) to Node.js and Vue.js |
-| **2019 — 2021** | ⚖️ **Public Prosecutor's Office of Goiás** · IT Support Analyst | Level 1/2 support, help desk, and maintenance of network equipment |
-
----
+---  -->
 
 ## 🏅 Certifications
 
@@ -78,21 +66,6 @@ I care about clean code, well-documented APIs, responsive interfaces, and teams 
 - 📦 **Maven Crash Course**
 - 🔌 **APIs with Node.js, Express + MongoDB, SQL**
 - 🔐 **Brazilian General Data Protection Law (LGPD)**
-
----
-
-## ✍️ Articles I've Written
-
-- 📘 **MERN Stack Guide**
-- 📗 **Fundamental Questions of Java**
-- 📙 **What is Spring Boot and what are its advantages?**
-
----
-
-## 🎓 Education
-
-- 🏛️ **Bachelor's Degree in Information Systems**, Federal University of Goiás (UFG)
-- 🌐 **Advanced English**, English Language and Literature, Federal University of Santa Catarina (UFSC)
 
 ---
 
