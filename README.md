@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thailaneld-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thailaneld)
-[![Linktree](https://img.shields.io/badge/Linktree-thailanelopesdutra-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thailanelopesdutra)
+[![Linktree](https://img.shields.io/badge/Linktree-thailps-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thailps)
 [![Gmail](https://img.shields.io/badge/Gmail-thailane111122-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thailane111122@gmail.com)
 
 </div>
@@ -26,8 +26,7 @@ public class Thailane {
     private String base       = "Goiânia, Goiás - Brazil 🇧🇷";
     private String education  = "Information Systems - UFG";
 
-    private String[] languages = {"Portuguese (native)", "English (professional)", "Spanish (full professional)"};
-    private String[] methods   = {"SCRUM", "Kanban", "TDD", "BDD", "DDD"};
+    private String[] languages = {"Portuguese (native)", "English (full professional)", "Spanish (full professional)"};
 
     public String mission() {
         return "Turning complex problems into simple, "
