@@ -25,6 +25,7 @@ public class Thailane {
     private String company    = "NCR Voyix (Atlanta, USA) - 100% remote";
     private String base       = "Goiânia, Goiás - Brazil 🇧🇷";
     private String education  = "Information Systems - UFG";
+    private String research   = "Artificial Intelligence (Models, LLMs, NLP & more)";
 
     private String[] languages = {"Portuguese (native)", "English (full professional)", "Spanish (full professional)"};
 
@@ -36,6 +37,8 @@ public class Thailane {
 ```
 
 I'm a software developer focused on **building new applications and maintaining systems in production**. Today I work remotely on international projects for **NCR Voyix**, collaborating with teams across different countries to design end-to-end solutions: from client-server architecture to the experience of the people using the product.
+
+Alongside my engineering work, I'm also involved in **studying, researching, and developing Artificial Intelligence**, including **machine learning models, Large Language Models (LLMs), Natural Language Processing (NLP)**, and related areas. I'm especially interested in how these technologies can be applied to build smarter, more useful software. 🤖🧠
 
 I care about clean code, well-documented APIs, responsive interfaces, and teams that communicate well. 💬
 
@@ -71,7 +74,7 @@ I care about clean code, well-documented APIs, responsive interfaces, and teams 
 
 ## 🤝 Let's Talk!
 
-If you want to chat about **Java, Spring, front-end, tech careers**, or working on international projects, feel free to reach out! I speak 🇧🇷 Portuguese, 🇺🇸 English, and 🇪🇸 Spanish.
+If you want to chat about **Java, Spring, front-end, AI/LLMs/NLP, tech careers**, or working on international projects, feel free to reach out! I speak 🇧🇷 Portuguese, 🇺🇸 English, and 🇪🇸 Spanish.
 
 <div align="center">
 
